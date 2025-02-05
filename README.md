@@ -262,9 +262,7 @@
   <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="40" width="50" />
   </a>
-  <a href="https://instagram.com/hasanrafi03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanrafi03" height="40" width="50" />
-  </a>
+
 </p>
 
 <p align="center">
