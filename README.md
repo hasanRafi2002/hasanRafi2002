@@ -1,4 +1,4 @@
-<!-- 
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
@@ -38,21 +38,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <p>
-    🎯 Currently diving deep into Next.js and backend optimization techniques<br>
-    🌱 Building robust, user-centric applications that scale<br>
-    💡 Turning complex problems into elegant solutions
-  </p>
-</div>
 
-<div align="center">
-  <p>
-    🎯 Currently diving deep into Next.js and backend optimization techniques<br>
-    🌱 Building robust, user-centric applications that scale<br>
-    💡 Turning complex problems into elegant solutions
-  </p>
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
 
@@ -117,12 +103,12 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
 ![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
 
-*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid* -->
+*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid* 
 
 
 
 
-
+<!-- 
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
 <div align="center">
@@ -188,4 +174,4 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
 ![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
 
-*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
+*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid* -->
