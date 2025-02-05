@@ -198,8 +198,8 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
 
-![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social) ![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
+
 
 
 
