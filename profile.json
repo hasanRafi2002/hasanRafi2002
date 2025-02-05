@@ -1,0 +1,397 @@
+{
+    "defaultProfile": "{79285a8e-036c-446f-8a9c-78994e34bf85}",
+    "initialRows": 30,
+    "initialCols": 120,
+    "alwaysShowTabs": true,
+    "showTerminalTitleInTitlebar": true,
+    "showTabsInTitlebar": true,
+    "requestedTheme": "dark",
+    "profiles": [
+        {
+            "startingDirectory": "C:/Users/Scott/Desktop",
+            "guid": "{7d04ce37-c00f-43ac-ba47-992cb1393215}",
+            "name": "DOS but not DOS",
+            "colorScheme": "Solarized Dark",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#00FF00",
+            "cursorHeight": 25,
+            "cursorShape": "vintage",
+            "commandline": "cmd.exe",
+            "fontFace": "Cascadia Code",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/cmd-32.png"
+        },
+        {
+            "startingDirectory": "C:/Users/Scott/Desktop",
+            "guid": "{79285a8e-036c-446f-8a9c-78994e34bf85}",
+            "name": "Powershell",
+            "background": "#012456",
+            "colorScheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#00FF00",
+            "cursorHeight": 25,
+            "cursorShape": "vintage",
+            "commandline": "powershell.exe",
+            "fontFace": "Fira Code",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/pwsh-32.png"
+        },
+        {
+            "startingDirectory": "C:/Users/Scott/Desktop",
+            "guid": "{79285a8e-036c-446f-8a9c-78994e34bf78}",
+            "name": "Powershell BUT AWESOMER",
+            "background": "#012456",
+            "colorScheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#00FF00",
+            "cursorHeight": 25,
+            "cursorShape": "vintage",
+            "commandline": "powershell.exe",
+            "fontFace": "Fira Code",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": false,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/pwsh-32.png",
+            "backgroundImage": "ms-appdata:///roaming/doug.gif",
+            "backgroundImageOpacity": 0.7,
+            "backgroundImageStretchMode": "uniformToFill"
+        },
+        {
+            "guid": "{39285a8e-036c-446f-8a9c-78994e34bf85}",
+            "name": "VS2019 Powershell",
+            "background": "#012456",
+            "colorScheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#00FF00",
+            "cursorHeight": 25,
+            "cursorShape": "vintage",
+            "commandline": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe -ExecutionPolicy Bypass -NoLogo -NoExit -File \"C:\\PROGRA~2\\MIB055~1\\2019\\Preview\\Common7\\Tools\\VsDevPs.ps1\"",
+            "fontFace": "Fira Code",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/vs2019.png"
+        },
+        {
+            "guid": "{8d04ce37-c00f-43ac-ba47-992cb1393215}",
+            "name": "Ubuntu",
+            "colorScheme": "UbuntuLegit",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "wsl.exe -d Ubuntu-18.04",
+            "fontFace": "Fira Code",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/ubuntu-32.png"
+        },
+        {
+            "guid": "{9d04ce37-c00f-43ac-ba47-992cb1393215}",
+            "name": "Azure Cloud Shell",
+            "colorScheme": "Ubuntu",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "c:\\github\\azshell\\azshell.exe",
+            "fontFace": "Consolas",
+            "fontSize": 20,
+            "acrylicOpacity": 0.85,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "ms-appdata:///roaming/cloud.png"
+        }
+    ],
+    "schemes": [
+        {
+            "name": "Campbell",
+            "foreground": "#F2F2F2",
+            "background": "#0C0C0C",
+            "black": "#0C0C0C",
+            "red": "#C50F1F",
+            "green": "#13A10E",
+            "yellow": "#C19C00",
+            "blue": "#0037DA",
+            "purple": "#881798",
+            "cyan": "#3A96DD",
+            "white": "#CCCCCC",
+            "brightBlack": "#767676",
+            "brightRed": "#E74856",
+            "brightGreen": "#16C60C",
+            "brightYellow": "#F9F1A5",
+            "brightBlue": "#3B78FF",
+            "brightPurple": "#B4009E",
+            "brightCyan": "#61D6D6",
+            "brightWhite": "#F2F2F2"
+        },
+        {
+            "name": "Solarized Dark",
+            "foreground": "#FDF6E3",
+            "background": "#073642",
+            "black": "#073642",
+            "red": "#D30102",
+            "green": "#859900",
+            "yellow": "#B58900",
+            "blue": "#268BD2",
+            "purple": "#D33682",
+            "cyan": "#2AA198",
+            "white": "#EEE8D5",
+            "brightBlack": "#002B36",
+            "brightRed": "#CB4B16",
+            "brightGreen": "#586E75",
+            "brightYellow": "#657B83",
+            "brightBlue": "#839496",
+            "brightPurple": "#6C71C4",
+            "brightCyan": "#93A1A1",
+            "brightWhite": "#FDF6E3"
+        },
+        {
+            "name": "Solarized Light",
+            "foreground": "#073642",
+            "background": "#FDF6E3",
+            "black": "#073642",
+            "red": "#D30102",
+            "green": "#859900",
+            "yellow": "#B58900",
+            "blue": "#268BD2",
+            "purple": "#D33682",
+            "cyan": "#2AA198",
+            "white": "#EEE8D5",
+            "brightBlack": "#002B36",
+            "brightRed": "#CB4B16",
+            "brightGreen": "#586E75",
+            "brightYellow": "#657B83",
+            "brightBlue": "#839496",
+            "brightPurple": "#6C71C4",
+            "brightCyan": "#93A1A1",
+            "brightWhite": "#FDF6E3"
+        },
+        {
+            "name": "Ubuntu",
+            "foreground": "#EEEEEC",
+            "background": "#2C001E",
+            "black": "#EEEEEC",
+            "red": "#16C60C",
+            "green": "#729FCF",
+            "yellow": "#B58900",
+            "blue": "#268BD2",
+            "purple": "#D33682",
+            "cyan": "#2AA198",
+            "white": "#EEE8D5",
+            "brightBlack": "#002B36",
+            "brightRed": "#CB4B16",
+            "brightGreen": "#586E75",
+            "brightYellow": "#657B83",
+            "brightBlue": "#839496",
+            "brightPurple": "#6C71C4",
+            "brightCyan": "#93A1A1",
+            "brightWhite": "#FDF6E3"
+        },
+        {
+            "name": "UbuntuLegit",
+            "foreground": "#EEEEEE",
+            "background": "#2C001E",
+            "black": "#4E9A06",
+            "red": "#CC0000",
+            "green": "#300A24",
+            "yellow": "#C4A000",
+            "blue": "#3465A4",
+            "purple": "#75507B",
+            "cyan": "#06989A",
+            "white": "#D3D7CF",
+            "brightBlack": "#555753",
+            "brightRed": "#EF2929",
+            "brightGreen": "#8AE234",
+            "brightYellow": "#FCE94F",
+            "brightBlue": "#729FCF",
+            "brightPurple": "#AD7FA8",
+            "brightCyan": "#34E2E2",
+            "brightWhite": "#EEEEEE"
+        }
+    ],
+    "keybindings": [
+        {
+            "keys": [
+                "ctrl+w"
+            ],
+            "command": "closeTab"
+        },
+        {
+            "keys": [
+                "ctrl+t"
+            ],
+            "command": "newTab"
+        },
+        {
+            "keys": [
+                "ctrl+shift+1"
+            ],
+            "command": "newTabProfile0"
+        },
+        {
+            "keys": [
+                "ctrl+shift+2"
+            ],
+            "command": "newTabProfile1"
+        },
+        {
+            "keys": [
+                "ctrl+shift+3"
+            ],
+            "command": "newTabProfile2"
+        },
+        {
+            "keys": [
+                "ctrl+shift+4"
+            ],
+            "command": "newTabProfile3"
+        },
+        {
+            "keys": [
+                "ctrl+shift+5"
+            ],
+            "command": "newTabProfile4"
+        },
+        {
+            "keys": [
+                "ctrl+shift+6"
+            ],
+            "command": "newTabProfile5"
+        },
+        {
+            "keys": [
+                "ctrl+shift+7"
+            ],
+            "command": "newTabProfile6"
+        },
+        {
+            "keys": [
+                "ctrl+shift+8"
+            ],
+            "command": "newTabProfile7"
+        },
+        {
+            "keys": [
+                "ctrl+shift+9"
+            ],
+            "command": "newTabProfile8"
+        },
+        {
+            "keys": [
+                "ctrl+tab"
+            ],
+            "command": "nextTab"
+        },
+        {
+            "keys": [
+                "ctrl+,"
+            ],
+            "command": "openSettings"
+        },
+        {
+            "keys": [
+                "ctrl+shift+tab"
+            ],
+            "command": "prevTab"
+        },
+        {
+            "keys": [
+                "ctrl+shift+down"
+            ],
+            "command": "scrollDown"
+        },
+        {
+            "keys": [
+                "ctrl+shift+pgdn"
+            ],
+            "command": "scrollDownPage"
+        },
+        {
+            "keys": [
+                "ctrl+shift+up"
+            ],
+            "command": "scrollUp"
+        },
+        {
+            "keys": [
+                "ctrl+shift+pgup"
+            ],
+            "command": "scrollUpPage"
+        },
+        {
+            "keys": [
+                "alt+1"
+            ],
+            "command": "switchToTab0"
+        },
+        {
+            "keys": [
+                "alt+2"
+            ],
+            "command": "switchToTab1"
+        },
+        {
+            "keys": [
+                "alt+3"
+            ],
+            "command": "switchToTab2"
+        },
+        {
+            "keys": [
+                "alt+4"
+            ],
+            "command": "switchToTab3"
+        },
+        {
+            "keys": [
+                "alt+5"
+            ],
+            "command": "switchToTab4"
+        },
+        {
+            "keys": [
+                "alt+6"
+            ],
+            "command": "switchToTab5"
+        },
+        {
+            "keys": [
+                "alt+7"
+            ],
+            "command": "switchToTab6"
+        },
+        {
+            "keys": [
+                "alt+8"
+            ],
+            "command": "switchToTab7"
+        },
+        {
+            "keys": [
+                "alt+9"
+            ],
+            "command": "switchToTab8"
+        }
+    ]
+}
