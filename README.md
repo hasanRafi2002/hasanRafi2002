@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&color=green)
 ![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
