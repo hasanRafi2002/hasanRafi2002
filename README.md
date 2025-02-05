@@ -58,17 +58,32 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
+  
+  <!-- Activity Graph - Full Width -->
+  [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue&bg_color=141321&title_color=f83c7c&line=f83c7c&point=fff&color=9e4c98&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)
+  <!-- Profile Summary and Languages - Second Row -->
+  <p>
+    <a href="https://github.com/hasanRafi2002">
+      <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical" />
+    </a>
+    <a href="https://github.com/hasanRafi2002">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical&hide_border=true" />
+    </a>
+  </p>
 
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)
+  <!-- GitHub Stats and Streak - Third Row -->
+  <p>
+    <a href="https://github.com/hasanRafi2002">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical&hide_border=true" />
+    </a>
+    <a href="https://github.com/hasanRafi2002">
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical&hide_border=true" />
+    </a>
+  </p>
 
 </div>
 
