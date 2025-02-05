@@ -247,8 +247,15 @@
 
 <div width="100%">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=github-dark)
 
+
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -367,10 +374,6 @@
 
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
 
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
@@ -379,7 +382,7 @@
 
 [![Latest YouTube Video](https://img.shields.io/youtube/channel/views/yourchannelid?label=Watch%20Latest%20Video&style=social)](https://www.youtube.com/channel/yourchannelid)
 
-[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/hasanRafi2002)
+
 
 
 
