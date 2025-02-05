@@ -436,14 +436,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-[![Spotify](https://novatorem-seven-nu.vercel.app/api/spotify)](https://open.spotify.com/user/hasanRafi2002)
-
-![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&style=flat-square)  
-[![Followers](https://img.shields.io/github/followers/hasanRafi2002?style=flat-square)](https://github.com/hasanRafi2002?tab=followers)
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&lines=Hello%2C+I'm+Rafi!+%F0%9F%91%8B;I'm+a+MERN+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+🚀)
-
+[![Spotify](https://novatorem-seven-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31l6fe3p6zo64ofnbwqkbtxghgyq)
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
