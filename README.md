@@ -1,4 +1,4 @@
-
+<!-- 
 
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
@@ -105,73 +105,76 @@
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid* 
 
+ -->
 
 
 
-<!-- 
-# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
-</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
+# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-a01a62d058c4.png" alt="Programming" width="30" height="30" /> Md. Tawhid Hasan Rafi
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00F7F7&center=true&width=800&lines=🚀+Full+Stack+Developer+with+a+Vision;💻+Crafting+Elegant+MERN+Solutions;🔬+Optimizing+Backend+Performance;🎯+Problem+Solver+%26+Innovation+Enthusiast" alt="Animated Typing"/>
-  </a>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30"/><br>
-      Software Engineering @ Daffodil International University
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" height="30"/><br>
-      MERN Stack Developer | Next.js Explorer
-    </td>
-  </tr>
-</table>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=light&animate=true" alt="Skills"/>
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats 
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=vision_friendly_dark" alt="Profile Summary"/>
   
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical&animation=fadeIn" alt="Top Languages"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical&animation=fadeIn" alt="GitHub Stats"/>
-      </td>
-    </tr>
-  </table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=35&duration=4000&pause=1000&color=36BCF7FF&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineering+Student+%F0%9F%8E%93;MERN+Stack+Specialist+%F0%9F%92%BB;Problem+Solver+%26+Innovation+Enthusiast+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 💫 Quick Facts
+- 🎓 Studying Software Engineering at **Daffodil International University**
+- 🔭 Currently working on **Advanced MERN Stack Projects**
+- 🌱 Learning **Cloud Architecture** & **System Design**
+- 💡 Passionate about creating scalable solutions
+- 🎯 2024 Goals: Master **AWS** & **Docker**
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://twitter.com/rafi_hasan_03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=bounce"/></a>
-  <a href="https://www.linkedin.com/in/2002hasan-rafi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce"/></a>
-  <a href="https://www.facebook.com/tawhidhasanrafi.rafi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&animation=bounce"/></a>
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
-![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
+## 🌐 Let's Connect
 
-*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid* -->
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2002hasan-rafi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafi_hasan_03)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawhidhasanrafi.rafi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasanRafi2002&style=flat-square&color=blue" alt="Profile views"/>
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasanrafio3)
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake-dark.svg)
