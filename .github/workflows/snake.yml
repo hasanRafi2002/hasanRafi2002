@@ -9,9 +9,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
