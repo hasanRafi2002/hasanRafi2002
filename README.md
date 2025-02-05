@@ -75,7 +75,7 @@
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=vue" />
     </a>
         <a href="https://github.com/hasanRafi2002">
-      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react" />
+      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=vue" />
     </a>
 
   </p>
@@ -83,10 +83,10 @@
   <!-- GitHub Stats and Streak - Third Row -->
   <p>
     <a href="https://github.com/hasanRafi2002">
-      <img width="52%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical&hide_border=true" />
+      <img width="52%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=vue&hide_border=true" />
     </a>
     <a href="https://github.com/hasanRafi2002">
-      <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical&hide_border=true" />
+      <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=vue&hide_border=true" />
     </a>
   </p>
 
