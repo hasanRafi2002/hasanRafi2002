@@ -67,7 +67,7 @@
 <div align="center">
   
   <!-- Activity Graph - Full Width -->
-  [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue&bg_color=141321&title_color=f83c7c&line=f83c7c&point=fff&color=9e4c98&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <!-- Profile Summary and Languages - Second Row -->
   <p>
