@@ -192,7 +192,7 @@
 
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanRafi2002&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+!![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
