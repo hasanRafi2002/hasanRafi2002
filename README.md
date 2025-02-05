@@ -349,13 +349,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasanrafi2002&icon=7&color=12" alt="Visitor Counter"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react&hide_border=true)]
 
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
