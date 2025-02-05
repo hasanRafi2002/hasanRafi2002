@@ -367,4 +367,33 @@
 ![Repos Badge](https://badges.pufler.dev/repos/yourusername)
 
 
+![GitHub Snake Light](https://github.com/yourusername/yourusername/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/yourusername/yourusername/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Metrics](https://metrics.lecoq.io/yourusername?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)
+
+![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/yourusername?style=social)
+
+![Current Time](https://img.shields.io/badge/Time-UTC%2B6-blue?style=flat-square)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A5DD&size=24&width=600&lines=Hey+there,+I'm+Rafi!;Software+Engineering+Student;Full-Stack+MERN+Developer;Problem+Solver+and+AI+Enthusiast)](https://git.io/typing-svg)
+
+![Visitor Map](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=6&icon=0&pretty=true)
+
+![SVG Banner](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20My%20Profile!&width=800&height=200)
+
+
+
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
