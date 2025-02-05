@@ -381,8 +381,6 @@
 
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/hasanRafi2002)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasanRafi2002&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Hasan Rafi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
