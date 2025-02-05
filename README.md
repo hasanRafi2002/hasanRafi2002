@@ -436,6 +436,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-[![Spotify](https://novatorem-seven-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31l6fe3p6zo64ofnbwqkbtxghgyq)
+[![Spotify](https://novatorem-seven-nu.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
