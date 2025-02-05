@@ -73,7 +73,7 @@
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical" />
     </a>
         <a href="https://github.com/hasanRafi2002">
-      <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical&hide_border=true" />
+      <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical&hide_border=true" />
     </a>
 
 
