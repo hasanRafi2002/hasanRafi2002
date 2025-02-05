@@ -322,7 +322,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=algolia)
 
 
 </div>
@@ -347,9 +347,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&color=blue)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanRafi2002&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
 
@@ -362,23 +362,23 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 
-![Years Badge](https://badges.pufler.dev/years/yourusername)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/yourusername)
-![Repos Badge](https://badges.pufler.dev/repos/yourusername)
+![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
+![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
 
 
-![GitHub Snake Light](https://github.com/yourusername/yourusername/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/yourusername/yourusername/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/hasanRafi2002/hasanRafi2002/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/hasanRafi2002/hasanRafi2002/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/yourusername?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
+![Metrics](https://metrics.lecoq.io/hasanRafi2002?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasanRafi2002)
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/hasanRafi2002?style=social)
 
 ![Current Time](https://img.shields.io/badge/Time-UTC%2B6-blue?style=flat-square)
 
@@ -386,14 +386,41 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanRafi2002&repo=yourrepository)](https://github.com/hasanRafi2002/yourrepository)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A5DD&size=24&width=600&lines=Hey+there,+I'm+Rafi!;Software+Engineering+Student;Full-Stack+MERN+Developer;Problem+Solver+and+AI+Enthusiast)](https://git.io/typing-svg)
 
-![Visitor Map](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=6&icon=0&pretty=true)
+![Visitor Map](https://visitcount.itsvg.in/api?id=hasanRafi2002&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 ![SVG Banner](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20My%20Profile!&width=800&height=200)
 
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
+
+[![Location](https://www.google.com/maps/place/Dhaka,+Bangladesh)](https://www.google.com/maps/place/Dhaka,+Bangladesh)
+
+![World Map](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/main/map.svg)
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
+
+![Dev Fact](https://random-dev-fact-api.herokuapp.com/)
+
+[![My Open Source Contributions](https://github-contributions.vercel.app/api?username=hasanRafi2002)](https://github.com/hasanRafi2002)
+
+
+[![GitHub Readme Coding Activity](https://github.com/hasanRafi2002/hasanRafi2002/workflows/Readme%20Coding%20Activity/badge.svg)](https://github.com/hasanRafi2002)
+
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=hasanRafi2002&cover_image=true&theme=novatorem)
+
+[![Latest Tweet](https://gtce.itsvg.in/api?username=yourtwitterusername)](https://twitter.com/yourtwitterusername)
+
+[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/yourchannelid?label=Watch%20Latest%20Video&style=social)](https://www.youtube.com/channel/yourchannelid)
+
+[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/hasanRafi2002)
 
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
