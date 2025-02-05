@@ -353,6 +353,8 @@
   <img src="https://visitcount.itsvg.in/api?id=hasanrafi2002&icon=7&color=12" alt="Visitor Counter"/>
 </div>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react)  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react&hide_border=true)]
 
 
