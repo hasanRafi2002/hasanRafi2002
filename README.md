@@ -361,29 +361,9 @@
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
 
 
-![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)
-
-![Metrics](https://metrics.lecoq.io/hasanRafi2002?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasanRafi2002)
 
 ![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/hasanRafi2002?style=social)
-
-![Current Time](https://img.shields.io/badge/Time-UTC%2B6-blue?style=flat-square)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanRafi2002&repo=yourrepository)](https://github.com/hasanRafi2002/yourrepository)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A5DD&size=24&width=600&lines=Hey+there,+I'm+Rafi!;Software+Engineering+Student;Full-Stack+MERN+Developer;Problem+Solver+and+AI+Enthusiast)](https://git.io/typing-svg)
-
-![Visitor Map](https://visitcount.itsvg.in/api?id=hasanRafi2002&label=Profile%20Views&color=6&icon=0&pretty=true)
-
-![SVG Banner](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20My%20Profile!&width=800&height=200)
 
 
 
@@ -392,41 +372,16 @@
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
 
-[![Location](https://www.google.com/maps/place/Dhaka,+Bangladesh)](https://www.google.com/maps/place/Dhaka,+Bangladesh)
-
-![World Map](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/main/map.svg)
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
 
-![Dev Fact](https://random-dev-fact-api.herokuapp.com/)
 
-[![My Open Source Contributions](https://github-contributions.vercel.app/api?username=hasanRafi2002)](https://github.com/hasanRafi2002)
-
-
-[![GitHub Readme Coding Activity](https://github.com/hasanRafi2002/hasanRafi2002/workflows/Readme%20Coding%20Activity/badge.svg)](https://github.com/hasanRafi2002)
-
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=hasanRafi2002&cover_image=true&theme=novatorem)
-
-[![Latest Tweet](https://gtce.itsvg.in/api?username=yourtwitterusername)](https://twitter.com/yourtwitterusername)
 
 [![Latest YouTube Video](https://img.shields.io/youtube/channel/views/yourchannelid?label=Watch%20Latest%20Video&style=social)](https://www.youtube.com/channel/yourchannelid)
 
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/hasanRafi2002)
 
-
-
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanRafi2002&theme=highcontrast)](https://git.io/streak-stats)
-
 ![Metrics](https://github.com/hasanRafi2002/hasanRafi2002/blob/main/github-metrics.svg)
 
-[![GitHub Skyline](https://skyline.github.com/hasanRafi2002/2024)](https://skyline.github.com/hasanRafi2002/2024)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-[![Spotify](https://novatorem-seven-nu.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
