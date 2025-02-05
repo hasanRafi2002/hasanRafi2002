@@ -171,10 +171,3 @@
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
 
 
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)
-
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)
