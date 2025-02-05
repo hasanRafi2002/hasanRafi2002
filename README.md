@@ -78,7 +78,7 @@
       <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical" />
     </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react)
 
   </p>
 
