@@ -268,11 +268,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
 
 </div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasanRafi2002&theme=tokyonight&hide_border=true" width="100%" />
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect & Collaborate
