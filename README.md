@@ -381,7 +381,9 @@
 
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/hasanRafi2002)
 
-![Metrics](https://github.com/hasanRafi2002/hasanRafi2002/blob/main/github-metrics.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasanRafi2002&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Hasan Rafi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
