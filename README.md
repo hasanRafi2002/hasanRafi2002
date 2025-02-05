@@ -72,13 +72,11 @@
   <!-- Profile Summary and Languages - Second Row -->
   <p>
     <a href="https://github.com/hasanRafi2002">
-      <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical" />
+      <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=vue" />
     </a>
         <a href="https://github.com/hasanRafi2002">
-      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical" />
+      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react" />
     </a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=react)
 
   </p>
 
