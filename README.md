@@ -250,7 +250,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?hasanRafi2002=yourusername&theme=github-dark)
 
 
-
 </div>
 
 <div width="49%">
