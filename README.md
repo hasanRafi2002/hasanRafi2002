@@ -190,6 +190,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanRafi2002&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
+![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
+
+![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
+
+
+
+
+
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
 
 <div align="center">
@@ -353,22 +370,11 @@
 </div>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanRafi2002&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
-![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
-
-
-
-![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
 
 
 
