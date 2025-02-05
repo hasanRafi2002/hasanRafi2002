@@ -355,7 +355,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Spotify Playing](https://novatorem.vercel.app/api/spotify)
+![Spotify Playing]((https://open.spotify.com/collection/tracks)) 
 
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
