@@ -371,25 +371,7 @@
 </div>
 
 
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
-
-
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
-
-
-
-[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/yourchannelid?label=Watch%20Latest%20Video&style=social)](https://www.youtube.com/channel/yourchannelid)
-
-
-
-
 
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
