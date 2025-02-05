@@ -82,7 +82,7 @@
   <!-- GitHub Stats and Streak - Third Row -->
   <p>
     <a href="https://github.com/hasanRafi2002">
-      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical&hide_border=true" />
+      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical&hide_border=true" />
     </a>
     <a href="https://github.com/hasanRafi2002">
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical&hide_border=true" />
