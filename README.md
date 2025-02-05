@@ -353,5 +353,18 @@
 
 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Spotify Playing](https://novatorem.vercel.app/api/spotify)
+
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+
+![Years Badge](https://badges.pufler.dev/years/yourusername)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/yourusername)
+![Repos Badge](https://badges.pufler.dev/repos/yourusername)
+
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
