@@ -247,7 +247,9 @@
 
 <div width="100%">
 
-  ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark)
+
+
 
 </div>
 
@@ -353,7 +355,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
-![Visitor Count](https://api.countapi.xyz/hit/yourusername-github/profile-views?style=flat-square)
+
 
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
