@@ -321,12 +321,9 @@
 ## 🏆 Achievements Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
 
-<div align="center">
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanrafi2002&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy Case"/>
 
 </div>
 
