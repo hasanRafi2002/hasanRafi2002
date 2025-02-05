@@ -347,7 +347,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&color=blue)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasanRafi2002&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
@@ -355,22 +354,14 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Spotify Playing]((https://open.spotify.com/collection/tracks)) 
 
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 
 ![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
 
 
-![GitHub Snake Light](https://github.com/hasanRafi2002/hasanRafi2002/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/hasanRafi2002/hasanRafi2002/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-
-[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)
 
 ![Metrics](https://metrics.lecoq.io/hasanRafi2002?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
 
