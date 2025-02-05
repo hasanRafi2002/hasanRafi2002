@@ -192,7 +192,7 @@
 
 
 
-!![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
