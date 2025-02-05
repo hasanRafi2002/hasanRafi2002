@@ -182,6 +182,8 @@
 
 
 
+
+
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
 <div align="center">
@@ -304,5 +306,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
+
+
+
+![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
+
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
