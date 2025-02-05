@@ -1,19 +1,30 @@
+
+
+
+
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanRafi2002&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 ![Years Badge](https://badges.pufler.dev/years/hasanRafi2002)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/hasanRafi2002)
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
-![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social)
+
+![GitHub Stars](https://img.shields.io/github/stars/hasanRafi2002?style=social) 
 ![GitHub Followers](https://img.shields.io/github/followers/hasanRafi2002?style=social)
 
-</div>
+
+
+
+
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
 
@@ -50,6 +61,8 @@
   </tr>
 </table>
 
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
 
 <div align="center">
@@ -58,19 +71,45 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 </div>
 
+
+
+
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats 
+
 
 <div align="center">
 
+<div width="100%">
+
+
+
+
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical)](https://github.com/hasanRafi2002)
+
 
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanRafi2002&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)
+</div>
 
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
+<div width="49%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical) 
+
+</div>
+
+<div width="49%">
+
+  ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
+
+</div>
+
+<div width="100%">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
+
+</div>
 
 </div>
 
@@ -78,6 +117,7 @@
 
 <div align="center">
 <p align="center">
+  <!-- First Row -->
   <a href="https://codepen.io/hasanrafi03" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanrafi03" height="40" width="50" />
   </a>
@@ -93,9 +133,11 @@
   <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="40" width="50" />
   </a>
+
 </p>
 
 <p align="center">
+  <!-- Second Row -->
   <a href="https://www.youtube.com/c/hasanrafi03" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanrafi03" height="40" width="50" />
   </a>
@@ -123,6 +165,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=algolia)
 
+
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
@@ -131,6 +174,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
+
 
 ## 💡 Support My Journey
 
@@ -144,6 +188,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 </div>
 
+
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/hasanRafi2002)
+
 
 *Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
