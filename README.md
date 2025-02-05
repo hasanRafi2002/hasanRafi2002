@@ -109,7 +109,7 @@
 
 
 
-
+<!-- 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-a01a62d058c4.png" alt="Programming" width="30" height="30" /> Md. Tawhid Hasan Rafi
 
@@ -177,4 +177,100 @@
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasanrafio3)
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake-dark.svg) -->
+
+
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+with+a+Vision;💻+Crafting+Elegant+MERN+Solutions;🔬+Optimizing+Backend+Performance;🎯+Problem+Solver+%26+Innovation+Enthusiast" alt="Animated Typing"/>
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30"/><br>
+      <b>Software Engineering Student</b><br>
+      <i>Daffodil International University</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" height="30"/><br>
+      <b>MERN Stack Developer</b><br>
+      <i>Next.js Explorer</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30"/><br>
+      <b>Building Scalable Applications</b><br>
+      <i>With Modern Technologies</i>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30"/><br>
+      <b>Problem-Solving Expert</b><br>
+      <i>Data Structures & Algorithms</i>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats 
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=tokyonight" width="100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasanRafi2002&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect & Collaborate
+
+<div align="center">
+  <a href="https://twitter.com/rafi_hasan_03">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/2002hasan-rafi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>
+  </a>
+  <a href="https://www.facebook.com/tawhidhasanrafi.rafi/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&color=black"/>
+  </a>
+</div>
+
+## 🏆 Achievements Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanRafi2002&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
+![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake-dark.svg)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+
+*Crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="20" height="20" /> by Tawhid*
