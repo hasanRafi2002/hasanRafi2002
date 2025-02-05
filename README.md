@@ -361,7 +361,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/hasanRafi2002)
 
 
-[![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)
+![Rafi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasanRafi2002&theme=react-dark)
 
 ![Metrics](https://metrics.lecoq.io/hasanRafi2002?template=classic&isocalendar=1&languages=1&achievements=1&notable=1)
 
