@@ -249,7 +249,25 @@
 
   ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
 
-  </div>
+</div>
+
+<div width="49%">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical) 
+
+</div>
+
+<div width="49%">
+
+  ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)
+
+</div>
+
+<div width="100%">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
+
+</div>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -321,15 +339,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
-
-
-
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical)  
-
-
-
 
 
 ## 💡 Support My Journey
