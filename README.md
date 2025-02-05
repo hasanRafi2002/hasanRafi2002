@@ -60,6 +60,8 @@
 
 
 
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
@@ -73,7 +75,7 @@
       <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanRafi2002&theme=radical" />
     </a>
         <a href="https://github.com/hasanRafi2002">
-      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical&hide_border=true" />
+      <img width="41.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanRafi2002&theme=radical" />
     </a>
 
 
