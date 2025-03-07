@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <table width="80%" style="border-collapse: separate; border-spacing: 10px; background: #1e293b; padding: 20px; border-radius: 20px;">
+  <table width="100%" style="border-collapse: separate; border-spacing: 10px; background: #1e293b; padding: 20px; border-radius: 20px;">
     <tr>
       <td align="center" width="80%" style="background: #27364a; padding: 15px; border-radius: 10px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
