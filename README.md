@@ -53,7 +53,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" />
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 </div>
@@ -116,6 +116,9 @@
   <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="40" width="50" />
   </a>
+    <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tawhidhasanrafi.rafi" height="40" width="50" />
+  </a>
 </p>
 
 <p align="center">
@@ -130,6 +133,9 @@
   </a>
   <a href="https://codeforces.com/profile/hasanrafi03" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasanrafi03" height="40" width="50" />
+  </a>
+    <a href="https://codeforces.com/profile/hasanrafi03" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/toph.svg" alt="hasanrafi03" height="40" width="50" />
   </a>
   <a href="https://www.leetcode.com/hasanrafi03" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi03" height="40" width="50" />
