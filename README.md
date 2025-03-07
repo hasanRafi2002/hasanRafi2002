@@ -55,7 +55,7 @@
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=swift,swiftui,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" /> -->
   
-<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="80%" />
+<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="90%" />
 <img src="https://static-00.iconduck.com/assets.00/sdk-objectivec-icon-2027x2048-ri6gk77o.png" width="10%" />
 <img src="https://img.icons8.com/color/512/swiftui.png" width="10%" />
 <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="10%" />
