@@ -25,29 +25,40 @@
 
 
 <div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 10px; background: #1e293b; padding: 20px; border-radius: 20px;">
+  
+  # iOS Developer & Software Engineering Student
+  
+  <table>
     <tr>
-      <td align="center" width="80%" style="background: #27364a; padding: 15px; border-radius: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
-        <b style="font-size: 18px; color: #fff;">Software Engineering Student</b><br>
-        <i style="font-size: 14px; color: #94a3b8;">Daffodil International University</i>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" height="60"/>
+        <br />
+        <b>Software Engineering Student</b>
+        <br />
+        <i>Daffodil International University</i>
       </td>
-      <td align="center" width="80%" style="background: #27364a; padding: 15px; border-radius: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"/><br>
-        <b style="font-size: 18px; color: #fff;">iOS Developer</b><br>
-        <i style="font-size: 14px; color: #94a3b8;">Swift | SwiftUI | UIKit</i>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="60" height="60"/>
+        <br />
+        <b>iOS Developer</b>
+        <br />
+        <i>Swift | SwiftUI | UIKit</i>
       </td>
     </tr>
     <tr>
-      <td align="center" width="80%" style="background: #27364a; padding: 15px; border-radius: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40"/><br>
-        <b style="font-size: 18px; color: #fff;">Building Scalable iOS Apps</b><br>
-        <i style="font-size: 14px; color: #94a3b8;">Focused on Performance & UX</i>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60"/>
+        <br />
+        <b>Building Scalable iOS Apps</b>
+        <br />
+        <i>Focused on Performance & UX</i>
       </td>
-      <td align="center" width="80%" style="background: #27364a; padding: 15px; border-radius: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/><br>
-        <b style="font-size: 18px; color: #fff;">Problem-Solving Expert</b><br>
-        <i style="font-size: 14px; color: #94a3b8;">Data Structures & Algorithms</i>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60" height="60"/>
+        <br />
+        <b>Problem-Solving Expert</b>
+        <br />
+        <i>Data Structures & Algorithms</i>
       </td>
     </tr>
   </table>
