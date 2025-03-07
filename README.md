@@ -53,8 +53,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" />
+  <!-- <img src="https://skillicons.dev/icons?i=swift,swiftui,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" /> -->
   
+
+  <img src="https://skillicons.dev/icons?i=swift,objc,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,xcode,vscode&perline=7&theme=dark" width="80%" />
+
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 </div>
 
