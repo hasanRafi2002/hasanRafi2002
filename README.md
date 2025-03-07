@@ -55,7 +55,7 @@
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=swift,swiftui,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind&perline=7&theme=dark" width="80%" /> -->
   
-<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="10%" />
+<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="80%" />
 <img src="https://static-00.iconduck.com/assets.00/sdk-objectivec-icon-2027x2048-ri6gk77o.png" width="10%" />
 <img src="https://img.icons8.com/color/512/swiftui.png" width="10%" />
 <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="10%" />
@@ -65,9 +65,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" />
 </div>
 
+<!-- <div align="center">
+ 
+<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="10%" />
+<img src="https://static-00.iconduck.com/assets.00/sdk-objectivec-icon-2027x2048-ri6gk77o.png" width="10%" />
+<img src="https://img.icons8.com/color/512/swiftui.png" width="10%" />
+<img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="10%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DBqDql4COp4rJUYh0BXdhDYNbcw7rH-ehw&s" width="10%" />
 
-
-
+</div> -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
