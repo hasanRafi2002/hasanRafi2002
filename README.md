@@ -97,11 +97,59 @@
 
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect & Collaborate
+
+<div align="center">
+  <p align="center">
+    <a href="https://codepen.io/hasanrafi03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://twitter.com/rafi_hasan_03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_hasan_03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://linkedin.com/in/2002hasan-rafi" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002hasan-rafi" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://stackoverflow.com/users/hasanrafi03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tawhidhasanrafi.rafi" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.youtube.com/c/hasanrafi03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://www.codechef.com/users/hasanrafio3" target="blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hasanrafio3" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://www.hackerrank.com/hasanrafio3" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasanrafio3" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://codeforces.com/profile/hasanrafi03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://toph.co/u/hasanrafi03" target="_blank">
+      <img src="https://github.com/hasanrafi1122/photos/blob/main/ph-assignment/tophlogo.png?raw=true" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://www.leetcode.com/hasanrafi03" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    </a>
+    <a href="https://discord.gg/hasanrafio3" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="50" width="60" />
+    </a>
+  </p>
+</div>
 
 
 
 
-
+<!-- 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect & Collaborate
 
 <div align="center">
@@ -152,7 +200,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="40" width="50" />
   </a>
 </p>
-</div>
+</div> -->
 
 ## 🏆 Achievements Showcase
 
