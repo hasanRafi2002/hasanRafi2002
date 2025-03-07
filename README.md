@@ -24,32 +24,35 @@
 </div>
 
 
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px border-radius: 15px;">
-  <tr>
-    <td align="center" width="50%" style="background: #1e293b; padding: 15px; border-radius: 15px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
-      <b style="font-size: 18px; color: #fff;">Software Engineering Student</b><br>
-      <i style="font-size: 14px; color: #94a3b8;">Daffodil International University</i>
-    </td>
-    <td align="center" width="50%" style="background: #1e293b; padding: 15px; border-radius: 15px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"/><br>
-      <b style="font-size: 18px; color: #fff;">iOS Developer</b><br>
-      <i style="font-size: 14px; color: #94a3b8;">Swift | SwiftUI | UIKit</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="background: #1e293b; padding: 15px; border-radius: 15px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40"/><br>
-      <b style="font-size: 18px; color: #fff;">Building Scalable iOS Apps</b><br>
-      <i style="font-size: 14px; color: #94a3b8;">Focused on Performance & UX</i>
-    </td>
-    <td align="center" width="50%" style="background: #1e293b; padding: 15px; border-radius: 15px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/><br>
-      <b style="font-size: 18px; color: #fff;">Problem-Solving Expert</b><br>
-      <i style="font-size: 14px; color: #94a3b8;">Data Structures & Algorithms</i>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="80%" style="border-collapse: separate; border-spacing: 10px; background: #1e293b; padding: 20px; border-radius: 20px;">
+    <tr>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Software Engineering Student</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Daffodil International University</i>
+      </td>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">iOS Developer</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Swift | SwiftUI | UIKit</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Building Scalable iOS Apps</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Focused on Performance & UX</i>
+      </td>
+      <td align="center" width="50%" style="background: #27364a; padding: 15px; border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/><br>
+        <b style="font-size: 18px; color: #fff;">Problem-Solving Expert</b><br>
+        <i style="font-size: 14px; color: #94a3b8;">Data Structures & Algorithms</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Arsenal 
