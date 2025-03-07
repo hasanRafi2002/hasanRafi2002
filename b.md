@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=62" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,15 +32,15 @@
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" height="30"/><br>
-      <b>MERN Stack Developer</b><br>
-      <i>Next.js Explorer</i>
+      <b>iOS Developer</b><br>
+      <i>Swift | SwiftUI | UIKit</i>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30"/><br>
-      <b>Building Scalable Applications</b><br>
-      <i>With Modern Technologies</i>
+      <b>Building Scalable iOS Apps</b><br>
+      <i>Focused on Performance & UX</i>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30"/><br>
@@ -55,7 +55,7 @@
 <div align="center">
 
   
-<img src="https://skillicons.dev/icons?i=swift,js,typescript,react,nextjs,nodejs,express,mongodb,python,cpp,java,aws,docker,git,tailwind,firebase,graphql,sqlite,postman,figma,vscode&perline=7&theme=dark" width="90%" />
+<img src="https://skillicons.dev/icons?i=swift,cpp,c, python,java,git,tailwind,firebase,graphql,sqlite,postman,figma,js,react,nodejs,express,mongodb ,aws,docker, vscode&perline=7&theme=dark" width="90%" />
 <img src="https://static-00.iconduck.com/assets.00/sdk-objectivec-icon-2027x2048-ri6gk77o.png" width="10%" />
 <img src="https://img.icons8.com/color/512/swiftui.png" width="10%" />
 <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" width="10%" />
