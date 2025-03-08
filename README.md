@@ -96,9 +96,9 @@
     <a href="https://github.com/hasanRafi2002">
       <img width="52%" src="https://github-readme-stats.vercel.app/api?username=hasanRafi2002&show_icons=true&theme=react&hide_border=true" />
     </a>
-    <a href="https://github.com/hasanRafi2002">
+    <!-- <a href="https://github.com/hasanRafi2002">
       <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanRafi2002&layout=compact&theme=react&hide_border=true" />
-    </a>
+    </a> -->
   </p>
 
 </div>
