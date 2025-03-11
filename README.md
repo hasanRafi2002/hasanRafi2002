@@ -5,7 +5,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,30:10b981,70:059669,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62&stroke=0CFFD2&strokeWidth=1&descStyle=bold" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,25:0d9488,50:10b981,75:8b5cf6,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62&stroke=C4B5FD&strokeWidth=1&descStyle=bold" width="100%"/>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-0d9488?style=for-the-badge&logo=swift&logoColor=white"/>
