@@ -67,7 +67,14 @@
 </div>
 ---
 
+<div align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30&section=header&text=Tawhid%20Hasan%20Rafi&desc=iOS%20Software%20Engineer&animation=fadeIn&fontColor=ffffff&fontSize=75&fontAlignY=35&descSize=25&descAlignY=55&descAlign=50&fontAlign=50&strokeWidth=2&stroke=00ffd5&reversal=false" width="100%" />
+  </a>
+</div>
 
+<!-- Animated Wave Effect -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 
 
 ---
