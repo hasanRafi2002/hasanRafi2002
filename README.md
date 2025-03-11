@@ -1,8 +1,16 @@
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sparkles" width="25" height="25" /> Hi there! I'm Md. Tawhid Hasan Rafi
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
+</div> -->
+
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62
+ " width="100%"/>
+
 </div>
+
 
 <div align="center">
 
