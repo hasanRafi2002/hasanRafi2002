@@ -6,10 +6,9 @@
 
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62
- " width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
 </div>
+
 
 
 <div align="center">
