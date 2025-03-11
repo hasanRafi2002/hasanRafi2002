@@ -11,10 +11,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62" width="100%"/>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-FF6B4D?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-1E1E1E?style=for-the-badge&logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Xcode-2E86C1?style=for-the-badge&logo=xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SwiftUI-18A2F7?style=for-the-badge&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-0d9488?style=for-the-badge&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-10b981?style=for-the-badge&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-059669?style=for-the-badge&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SwiftUI-16a34a?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
   
