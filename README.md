@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:10b981,100:22c55e&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descSize=25&descAlignY=65&descAlign=50" width="100%"/>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-0d9488?style=for-the-badge&logo=swift&logoColor=white"/>
