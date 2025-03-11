@@ -5,17 +5,7 @@
 </div> -->
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:14b8a6&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&animation=scaleIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:10b981,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=iOS%20Software%20Engineer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20Xcode&descAlignY=60&descAlign=62" width="100%"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62" width="100%"/>
@@ -27,10 +17,6 @@
     <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
   </p>
   
-  <p align="center">
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"/></a>
-    <!-- Add your LinkedIn, Twitter, etc. badges here -->
-  </p>
 </div>
 
 
@@ -45,31 +31,10 @@
     <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
   </p>
   
-  <div align="center">
-    <a href="https://github.com/yourusername">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
   </div>
   
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=16A34A&center=true&vCenter=true&width=435&lines=Passionate+iOS+Developer;SwiftUI+Enthusiast;Clean+Code+Advocate;Mobile+UX+Specialist" alt="Typing SVG" />
-  
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,30:10b981,70:059669,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62&stroke=0CFFD2&strokeWidth=1&descStyle=bold" width="100%"/>
-</div>
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d9488,30:10b981,70:059669,100:16a34a&text=Tawhid%20Hasan%20Rafi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&rotate=0&stroke=00e5ff&strokeWidth=3&descStyle=bold&reversal=true" width="100%"/>
-</div>
 
 ---
 
