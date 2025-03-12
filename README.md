@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/SwiftUI-16a34a?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-  
 </div>
 
 
