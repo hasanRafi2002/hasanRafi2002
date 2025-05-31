@@ -9,10 +9,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,25:0d9488,50:10b981,75:8b5cf6,100:16a34a&height=300&section=header&text=Tawhid%20Hasan%20Rafi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Software%20Engineer%20|%20Swift%20|%20SwiftUI%20|%20Xcode&descAlignY=58&descSize=22&descAlign=62&stroke=C4B5FD&strokeWidth=1&descStyle=bold" width="100%"/>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-0d9488?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-10b981?style=for-the-badge&logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Xcode-059669?style=for-the-badge&logo=xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SwiftUI-16a34a?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
 </div>
@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Passionate+iOS+Software+Engineer+in+the+making!;%F0%9F%94%A5+Solving+problems+with+Swift%2C+C%2C%2B%2B+daily!;%F0%9F%92%BB+Building+apps+that+make+a+difference!;%E2%9A%96%EF%B8%8F+Mastering+math%2C+code%2C+and+discipline!;%F0%9F%93%9D%EF%B8%8F+Creating+content+to+inspire+and+educate!;%F0%9F%A6%88+Fighting+failure+with+focus+and+fire!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Passionate+iOS+Software+Engineer+in+the+making!;%F0%9F%94%A5+Solving+problems+with+Swift%2C+C%2C%2B%2B+daily!;%F0%9F%92%BB+Building+apps+that+make+a+difference!;%E2%9A%96%EF%B8%8F+Mastering+math%2C+code%2C+and+discipline!;%F0%9F%93%9D%EF%B8%8F+Creating+content+to+inspire+and+educate!;%F0%9F%A6%88+Fighting+failure+with+focus+and+fire!" alt="Typing SVG">
 </p>
 
 
