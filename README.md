@@ -37,11 +37,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> About Me 
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+with+a+Vision;💻+Crafting+Elegant+MERN+Solutions;🔬+Optimizing+Backend+Performance;🎯+Problem+Solver+%26+Innovation+Enthusiast" alt="Animated Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+with+a+Vision;💻+Crafting+Elegant+MERN+Solutions;🔬+Optimizing+Backend+Performance;🎯+Problem+Solver+%26+Innovation+Enthusiast" alt="Typing SVG" />
   </a>
-</div>
+</p>
+
 
 
 
