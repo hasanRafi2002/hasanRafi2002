@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=iOS+Software+Engineer+in+the+making!;Problem+solver+with+Swift%2C+C%2C%2B%2B!;Engineering+my+future+one+line+at+a+time.;Building+apps%2C+crushing+bugs%2C+leveling+up!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Passionate+iOS+Software+Engineer+in+the+making!;%F0%9F%94%A5+Solving+problems+with+Swift%2C+C%2C%2B%2B+daily!;%F0%9F%92%BB+Building+apps+that+make+a+difference!;%E2%9A%96%EF%B8%8F+Mastering+math%2C+code%2C+and+discipline!;%F0%9F%93%9D%EF%B8%8F+Creating+content+to+inspire+and+educate!;%F0%9F%A6%88+Fighting+failure+with+focus+and+fire!" alt="Typing SVG">
 </p>
 
 
