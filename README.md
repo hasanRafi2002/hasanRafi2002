@@ -169,7 +169,7 @@
     <a href="https://leetcode.com/u/hasanrafi02/" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi02" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://discord.gg/1257692011234983936" target="blank">
+    <a href="https://discord.com/channels/@me/1257692011234983936" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="50" width="60" />
     </a>
   </p>
