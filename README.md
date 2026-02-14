@@ -151,8 +151,8 @@
   </p>
 
   <p align="center">
-    <a href="https://www.youtube.com/c/hasanrafi03" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    <a href="https://www.youtube.com/@rafi-me" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafi-me" height="50" width="60" style="margin-right: 10px;" />
     </a>
     <a href="https://www.codechef.com/users/hasanrafio3" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hasanrafio3" height="50" width="60" style="margin-right: 10px;" />
@@ -163,11 +163,11 @@
     <a href="https://codeforces.com/profile/hasanrafi03" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://toph.co/u/hasanrafi03" target="_blank">
+    <a href="https://toph.co/u/HasanRafi2003" target="_blank">
       <img src="https://github.com/hasanrafi1122/photos/blob/main/ph-assignment/tophlogo.png?raw=true" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://www.leetcode.com/hasanrafi03" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
+    <a href="https://leetcode.com/u/hasanrafi02/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi02" height="50" width="60" style="margin-right: 10px;" />
     </a>
     <a href="https://discord.gg/hasanrafio3" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="50" width="60" />
