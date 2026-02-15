@@ -133,10 +133,10 @@
     <a href="https://codepen.io/hasanrafi03" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanrafi03" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://twitter.com/rafi_hasan_03" target="blank">
+    <a href="https://x.com/rafi_hasan_03" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_hasan_03" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://linkedin.com/in/2002hasan-rafi" target="blank">
+    <a href="https://www.linkedin.com/in/serock01/" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002hasan-rafi" height="50" width="60" style="margin-right: 10px;" />
     </a>
     <a href="https://stackoverflow.com/users/hasanrafi03" target="blank">
@@ -145,7 +145,7 @@
     <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhidhasanrafi.rafi" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://fb.com/tawhidhasanrafi.rafi" target="blank">
+    <a href="https://www.instagram.com/ben10_rafi/" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tawhidhasanrafi.rafi" height="50" width="60" style="margin-right: 10px;" />
     </a>
   </p>
@@ -169,7 +169,7 @@
     <a href="https://leetcode.com/u/hasanrafi02/" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasanrafi02" height="50" width="60" style="margin-right: 10px;" />
     </a>
-    <a href="https://discord.com/channels/@me/1257692011234983936" target="blank">
+    <a href="https://discordapp.com/users/1257692011234983936" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanrafio3" height="50" width="60" />
     </a>
   </p>
